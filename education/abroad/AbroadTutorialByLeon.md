@@ -105,7 +105,7 @@ A+与A的经历并不是每个人都能有的。如果你看不懂算法，发�
 
 以下是搜索示例：
 
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/21876594/1711270466661-5e30889b-97fe-4aad-b5f3-882ef9068ed6.png#averageHue=%2392a2ab&clientId=u648c296d-0283-4&from=paste&height=287&id=u9c36ebe8&originHeight=894&originWidth=2494&originalType=binary&ratio=2&rotation=0&showTitle=false&size=936963&status=done&style=none&taskId=u9ea48546-1ac9-4e8a-8444-64024fb1256&title=&width=800)<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/21876594/1711270217149-86564203-f2d0-48b5-bc74-dd7c863bdf48.png#averageHue=%23f8f8f8&clientId=u648c296d-0283-4&from=paste&height=465&id=u13e1230c&originHeight=1122&originWidth=1930&originalType=binary&ratio=2&rotation=0&showTitle=false&size=336959&status=done&style=none&taskId=ud5e3f462-ee55-4963-bb55-16b5468a6b1&title=&width=800)
+![image.png](https://cdn.nlark.com/yuque/0/2024/png/21876594/1711270466661-5e30889b-97fe-4aad-b5f3-882ef9068ed6.png)<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/21876594/1711270217149-86564203-f2d0-48b5-bc74-dd7c863bdf48.png)
 <a name="X7Y1Q"></a>
 #### OpenCS
 [https://opencs.app/](https://opencs.app/)
