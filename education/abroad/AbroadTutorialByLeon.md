@@ -105,8 +105,8 @@ A+与A的经历并不是每个人都能有的。如果你看不懂算法，发�
 
 以下是搜索示例：
 
-<img width="800" src="https://cdn.nlark.com/yuque/0/2024/png/21876594/1711270466661-5e30889b-97fe-4aad-b5f3-882ef9068ed6.png">
-<img width="800" src="https://cdn.nlark.com/yuque/0/2024/png/21876594/1711270217149-86564203-f2d0-48b5-bc74-dd7c863bdf48.png">
+<img width="800" src="https://img2.imgtp.com/2024/03/27/X345KFG6.png">
+<img width="800" src="https://img2.imgtp.com/2024/03/27/3NwQAGgp.png">
 
 <a name="X7Y1Q"></a>
 #### OpenCS
