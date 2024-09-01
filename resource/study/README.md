@@ -38,3 +38,7 @@
 | the way to go 中文版                   | [下载](https://github.com/unknwon/the-way-to-go_ZH_CN)                                                                                                                                                                                                                                                            | go,入门,书籍	              | 	go语言入门书籍                                                            | BallBallYouCarryCarryMe	 | 	2022/5/31	                       |
 | Java 并发编程的艺术 | [阿里云盘](https://www.aliyundrive.com/s/kww6erBFoY3) | java,学习资料,书籍 | Java 并发编程进阶好书，适合面试 | cy | 2023/7/27 |
 | Java 并发编程之美 | [阿里云盘](https://www.aliyundrive.com/s/L55JcMkVNbw) | java,学习资料,书籍 | Java 并发编程，周边人很推荐 | cy | 2023/7/23 |
+| WTF Academy | [参考链接](https://www.wtf.academy/) | web3, solidity, ether.js | Web3.0 入门指南 | stvlynn | 2024/8/12 |
+| 李宏毅深度学习教程LeeDL-Tutorial（苹果书） | [PDF](https://github.com/datawhalechina/leedl-tutorial/releases) | 深度学习,入门,书籍 | 深度学习入门书籍 | stvlynn | 2024/8/12 |
+| 通往AGI之路 | [参考链接](https://www.waytoagi.com/) | AI,入门,网页 | AI入门的一个教程网站 | stvlynn | 2024/8/12 |
+｜ Developer Roadmap | [参考链接](https://roadmap.sh/) | 开发者,入门,路线图,教程 | 开发者入门路线图 | stvlynn | 2024/8/12 |
